@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [View Video on GitHub](https://yesbit.github.io/YesbitVideo/Yesbit_EN_Feb16_MOV.m4v) to maintain and preview the content for your website in Markdown files.
+ [View Video on GitHub](https://yesbit.github.io/YesbitVideo/Yesbit_EN_Feb16_MOV.m4v) to maintain and preview the content for your website in Markdown files.
 
 
 ### Markdown

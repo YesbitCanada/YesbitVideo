@@ -2,6 +2,8 @@
 
  [View Video on GitHub](https://yesbit.github.io/YesbitVideo/Yesbit_EN_Feb16_MOV.m4v) to maintain and preview the content for your website in Markdown files.
 
+ [View Powerpoint on GitHub](https://yesbit.github.io/YesbitVideo/Yesbit_EN_Feb16.pptx) to maintain and preview the content for your website in Markdown files.
+
 
 ### Markdown
 
